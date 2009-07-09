@@ -1,0 +1,9 @@
+#
+#Wed Jul 01 09:42:12 BRT 2009
+client.configuration=MetoChat.xml
+name=MetoChat
+uid=
+filelist=.classpath,.project,MetoChat.xml,src,step.wizard,
+cmd=br.metodista.chatapp.Maria
+path=C\:\\Users\\Mauro Schneider\\Desktop
+archive.name=

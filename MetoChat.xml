@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SERVICE_Configuration>
+	<ClientName>MetoChat</ClientName>
+	<ServicePath>java</ServicePath>
+	<ServiceParameter>-cp "C:\Users\Mauro Schneider\Desktop\MetoChat\MetoChat.jar";"C:\Users\Mauro Schneider\Desktop\MetoChat\IcpJni.jar";"C:\Users\Mauro Schneider\Desktop\MetoChat\ImsmJni.jar"; br.metodista.chatapp.Maria</ServiceParameter>
+	<ServiceId>+g.oma.sip-im</ServiceId>
+	<ServiceId>+g.metoChat.SIP</ServiceId>
+</SERVICE_Configuration>
